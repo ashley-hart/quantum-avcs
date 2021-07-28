@@ -8,4 +8,6 @@ This project explores the problem of achieving reliable quantum communication ov
 **RESEARCH QUESTION:**
 What abilities do adversaries possess on classical and quantum arbitrarily varying channels and how can we model them?
 
+Please note, the literature review is ongoing. The final document will be added to this repository upon completion.
+
 This work was presented at the Rise at Rutgers University Program in 2021. The formal library entry for Rutgers can be found [here](https://na04.alma.exlibrisgroup.com/discovery/delivery/01RUT_INST:01RUT/12663408980004646). The emtry includes the poster and the video presentation.
